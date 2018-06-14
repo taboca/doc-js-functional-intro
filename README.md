@@ -31,6 +31,18 @@ console.log(celcius);
 
 ```
 
+In the old school, Marcio's approach, instead of using the Array's map method, you could alternatively consider: 
+
+```
+var my_Old_Array = [1,2,3]; 
+var my_New_Array = [1,2,3]; 
+
+for(var i = 0; i < my_Old_Array.length; i++) {
+  my_New_Array.push(my_Old_Array[i]);
+}
+```
+
+
 ## Reference
 
 https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter
