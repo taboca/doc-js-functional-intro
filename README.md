@@ -1,8 +1,20 @@
+# Map and Reduce glimpser
+
+Let's look a the map function which returns a new array based in a given array and a function that you need to pass: 
+
+```
+var newArray = oldArray.map(operatorFunction); 
+```
+
+
+
+## Reference
+
 https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter
 
-https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f
-
 ## Reference 
+
+https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f
 
 ### Redux: The Single Immutable State Tree
 
@@ -19,7 +31,5 @@ https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c2
 ### Redux: The Reducer Function
 
 * https://egghead.io/lessons/react-redux-the-reducer-function
-
-### 
 
 
